@@ -59,8 +59,7 @@ export default function Portfolio() {
 
             <div className="space-y-6 text-gray-300 leading-relaxed max-w-2xl">
               <p>
-                I'm a researcher and software engineer with 6 relevant experiences spanning 2 years. Currently pursuing
-                a Bachelor's in Economics + Computer Science at the University of San Francisco with a 3.88 GPA.
+                I'm a machine learning engineer and NLP researcher with a strong focus on building AI systems that understand and adapt to people. I’ve worked on everything from predictive maintenance models at Raytheon Technologies to research on conversational styles and cultural nuance at MAGICS Lab, where I’m currently developing AI agents that adapt to different speaking styles like high-involvement vs. high-considerateness dialogue.Outside the lab, I’ve supported AI policy efforts through the Google Public Policy Fellowship at the Technology Policy Institute, helping shape responsible AI deployment with technical insight and real-world use cases in mind. I’m especially interested in projects that sit at the intersection of ML, language, and human behavior—whether that means developing new methods for adaptive dialogue systems, experimenting with multi-modal inputs, or finding better ways to evaluate conversational AI. Always looking to collaborate on creative, technically ambitious ideas.
               </p>
 
               <p>
