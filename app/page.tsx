@@ -127,6 +127,40 @@ export default function Portfolio() {
                   deployment and oversight. Analyzing statistical significance of conversational entrainment effects.
                 </p>
               </div>
+
+             <div className="border-l border-gray-800 pl-6">
+              <div className="flex items-center space-x-2 mb-2">
+               <h3 className="text-lg font-medium">stanford tree hacks</h3>
+              </div>
+              <p className="text-gray-400 text-sm mb-3">Hacker • Feb 2025</p>
+              <p className="text-gray-300 text-sm leading-relaxed">
+                Developed a Vision-Language Model (VLM) pipeline for real-world driving video Q&A using 250+ Tesla
+                clips. Built modules for multimodal feature extraction, video indexing, and scene understanding to support
+                autonomous perception and decision-making.
+              </p>
+            /div>
+
+            <div className="border-l border-gray-800 pl-6">
+             <div className="flex items-center space-x-2 mb-2">
+               <h3 className="text-lg font-medium">berkeley ai hackathon</h3>
+             </div>
+             <p className="text-gray-400 text-sm mb-3">Hacker • Jan 2025</p>
+             <p className="text-gray-300 text-sm leading-relaxed">
+               Trained and deployed a predictive maintenance model using LSTM and Prophet on aerospace failure logs.
+               Packaged and deployed the system with FastAPI, Docker, and AWS. Built a real-time inference API and dashboard
+               for anomaly detection.
+             </p>
+           </div>
+
+           <div className="border-l border-gray-800 pl-6">
+            <div className="flex items-center space-x-2 mb-2">
+              <h3 className="text-lg font-medium">stanford economic review</h3>
+              </div>
+              <p className="text-gray-400 text-sm mb-3">Co-Author • Feb 2024 (Accepted)</p>
+              <p className="text-gray-300 text-sm leading-relaxed">
+                Published research on the effects of climate variability on agricultural output in Punjab. Used panel regression
+                models to quantify the relationship between temperature, precipitation, and crop yields across multiple districts.
+              </p>
             </div>
           </div>
         )}
