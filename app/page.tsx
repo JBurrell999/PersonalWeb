@@ -59,19 +59,15 @@ export default function Portfolio() {
 
             <div className="space-y-6 text-gray-300 leading-relaxed max-w-2xl">
               <p>
-                I'm a machine learning engineer and NLP researcher with a strong focus on building AI systems that understand and adapt to people. I’ve worked on everything from predictive maintenance models at Raytheon Technologies to research on conversational styles and cultural nuance at MAGICS Lab, where I’m currently developing AI agents that adapt to different speaking styles like high-involvement vs. high-considerateness dialogue.Outside the lab, I’ve supported AI policy efforts through the Google Public Policy Fellowship at the Technology Policy Institute, helping shape responsible AI deployment with technical insight and real-world use cases in mind. I’m especially interested in projects that sit at the intersection of ML, language, and human behavior—whether that means developing new methods for adaptive dialogue systems, experimenting with multi-modal inputs, or finding better ways to evaluate conversational AI. Always looking to collaborate on creative, technically ambitious ideas.
+                I'm a machine learning engineer and NLP researcher with a strong focus on building AI systems that understand and adapt to people. I’ve worked on everything from predictive maintenance models at Raytheon Technologies to research on conversational styles and cultural nuance at MAGICS Lab, where I’m currently developing AI agents that adapt to different speaking styles like high-involvement vs. high-considerateness dialogue.
               </p>
 
               <p>
-                I specialize in machine learning, NLP, and AI research. Currently working as a Machine Learning Engineer
-                at Raytheon Technologies, building time-series ML models for predictive maintenance, and as an NLP/AI
-                Researcher at MAGICS LAB developing culturally sensitive conversational AI.
+                Outside the lab, I’ve supported AI policy efforts through the Google Public Policy Fellowship at the Technology Policy Institute, helping shape responsible AI deployment with technical insight and real-world use cases in mind.
               </p>
 
               <p>
-                I'm passionate about responsible AI deployment and have been supporting the Technology Policy Institute
-                through the Google Public Policy Fellowship, working on policy briefs and technical input on AI
-                oversight.
+                I’m especially interested in projects that sit at the intersection of ML, language, and human behavior—whether that means developing new methods for adaptive dialogue systems, experimenting with multi-modal inputs, or finding better ways to evaluate conversational AI. Always looking to collaborate on creative, technically ambitious ideas.
               </p>
 
               <p className="text-sm">currently between san francisco and palo alto.</p>
